@@ -16,6 +16,7 @@ import time
 from omegaconf import OmegaConf
 
 
+
 def download_models(mode):
 
     if mode == "superresolution":
